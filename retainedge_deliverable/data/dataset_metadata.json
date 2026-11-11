@@ -1,0 +1,13 @@
+{
+  "target_column": "Churn",
+  "target_mapping": {
+    "0": 0,
+    "1": 1
+  },
+  "id_columns_dropped": [
+    "CustomerID"
+  ],
+  "n_rows": 440832,
+  "n_columns": 11,
+  "churn_rate_pct": 56.71
+}

@@ -1,0 +1,12 @@
+feature,mean_absolute_shap,customer_count,customer_percentage
+Support Calls,3.378551,81356,18.46
+Total Spend,2.059002,73198,16.6
+Age,2.005641,38044,8.63
+Payment Delay,1.397425,28378,6.44
+Contract Length,1.393645,49355,11.2
+Gender,1.274337,66002,14.97
+Last Interaction,1.117418,55922,12.69
+Usage Frequency,0.549903,13282,3.01
+Tenure,0.493061,8903,2.02
+tenure_group,0.319027,9317,2.11
+Subscription Type,0.222128,17076,3.87
